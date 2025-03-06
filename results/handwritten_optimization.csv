@@ -1,0 +1,9 @@
+配置,NMI,ARI,ACC,错误
+baseline,0.0,0.0,0.0,[Errno 2] No such file or directory: 'checkpoints/handwritten_baseline_best_model.pth'
+smaller_dims,0.0,0.0,0.0,[Errno 2] No such file or directory: 'checkpoints/handwritten_smaller_dims_best_model.pth'
+higher_dropout,0.0,0.0,0.0,[Errno 2] No such file or directory: 'checkpoints/handwritten_higher_dropout_best_model.pth'
+lower_lr,0.0,0.0,0.0,[Errno 2] No such file or directory: 'checkpoints/handwritten_lower_lr_best_model.pth'
+higher_reg,0.0,0.0,0.0,[Errno 2] No such file or directory: 'checkpoints/handwritten_higher_reg_best_model.pth'
+higher_contrast,0.0,0.0,0.0,[Errno 2] No such file or directory: 'checkpoints/handwritten_higher_contrast_best_model.pth'
+adaptive_mask,0.0,0.0,0.0,[Errno 2] No such file or directory: 'checkpoints/handwritten_adaptive_mask_best_model.pth'
+combined,0.0,0.0,0.0,[Errno 2] No such file or directory: 'checkpoints/handwritten_combined_best_model.pth'

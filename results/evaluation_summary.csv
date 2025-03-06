@@ -1,0 +1,14 @@
+dataset,nmi,ari,acc,status
+example_dataset,0.9768399264855876,0.9199146266080405,0.9212121212121213,success
+handwritten,0.06867459367269549,0.03375776843990014,0.218,success
+reuters,0.8994777636793561,0.7834633899742246,0.79375,success
+coil20,0.0,0.0,0.0,data_load_error
+mnist,0.0,0.0,0.0,data_load_error
+3sources,1.0,1.0,1.0,success
+segment,1.0,1.0,1.0,success
+movielists,0.0,0.0,0.0,data_load_error
+twitter_football,0.3996712554550075,0.10530170551850371,0.28225806451612906,success
+twitter_olympics,0.44161332701964606,0.12442310683514192,0.29310344827586204,success
+twitter_politics-uk,0.4173523557821501,0.28398344314903123,0.441527446300716,success
+twitter_politics-ie,0.0,0.0,0.0,model_not_found
+twitter_rugby,0.0,0.0,0.0,model_not_found

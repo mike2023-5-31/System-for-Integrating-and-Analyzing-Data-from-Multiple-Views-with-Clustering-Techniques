@@ -1,0 +1,4 @@
+配置,NMI,ARI,ACC,错误
+baseline,0.0,0.0,0.0,'loss'
+smaller_dims,0.0,0.0,0.0,'loss'
+combined,0.0,0.0,0.0,'loss'
